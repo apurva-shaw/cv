@@ -1,0 +1,20 @@
+body {
+  background-color: #FBF8F1;
+}
+hr {
+  border-style: dotted none none;
+  height:0;
+  width:10%;
+  border-color: #E9DAC1;
+  border-width: 5px;
+}
+h1 {
+  color:#54BAB9;
+
+}
+h3 {
+  color:#54BAB9;
+}
+.edu_table{
+  background-color:#F7ECDE;
+}
